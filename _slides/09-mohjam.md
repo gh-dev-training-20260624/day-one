@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hi from Mjam 👍
 
 ![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
 {: .center}
